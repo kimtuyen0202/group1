@@ -1,1 +1,1 @@
-có con cặc
+không hiểu cách dùng
