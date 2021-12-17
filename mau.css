@@ -51,3 +51,9 @@ img{
     padding-left: 5px;
     padding-right: 5px;
 }
+p.long{
+    font-family: "Sofia", sans-serif;
+    text-align: center;
+    padding:20px;
+    background-color: white;
+}
