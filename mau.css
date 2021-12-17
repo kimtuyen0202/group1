@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+    font-family: 'Pangolin',cursive;
+    color: whitesmoke;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(0, 132, 255);
+    font-size: 50px;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background-image:url('background.jpg');
+    background-size: 100%;
+}
+p{
+    text-align: center;
+    font-family: 'Pangolin',cursive;
+    font-size: larger;
+    background-color: aliceblue;
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+a:hover{color: orange;}
+p.header{
+    background-color: white;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+}
+p.info{
+    background-color: white;
+    font-size:17px
+}
+section{
+    float:left;
+    margin:25px;    
+    text-align: center;
+    width:300px;
+    background-color: white;
+}
+img{
+    width:290px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
