@@ -59,8 +59,8 @@ p.long{
 }
 p.Tuyen 
 {
-    font-family: "Sophia";
+     font-family: "Sofia", sans-serif;
     text-align: center;
     padding:20px;
-    background-color: white; 
+    background-color: white;
 }
