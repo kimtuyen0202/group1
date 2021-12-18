@@ -2,16 +2,13 @@ h1 {
     text-align: center;
     font-family: 'Pangolin',cursive;
     color: whitesmoke;
-    padding: 0;
-    margin: 0;
+
     background-color: rgb(0, 132, 255);
     font-size: 50px;
 }
 
 body{
-    padding: 0;
-    margin: 0;
-    background-image:url('background.jpg');
+    background-image:url('./picture/background.jpg');
     background-size: 100%;
 }
 p{
@@ -19,8 +16,6 @@ p{
     font-family: 'Pangolin',cursive;
     font-size: larger;
     background-color: aliceblue;
-    padding: 0;
-    margin: 0;
 }
 a{
     text-decoration: none;
@@ -51,16 +46,15 @@ img{
     padding-left: 5px;
     padding-right: 5px;
 }
-p.long{
-    font-family: "Sofia", sans-serif;
+p,body,h1 {
+    padding: 0;
+    margin: 0;
+}
+p.long, p.Tuyen, p.My{
     text-align: center;
     padding:20px;
     background-color: white;
 }
-p.Tuyen 
-{
-     font-family: "Sofia", sans-serif;
-    text-align: center;
-    padding:20px;
-    background-color: white;
+p.Tuyen{
+    font-family: "Sofia", sans-serif;
 }
